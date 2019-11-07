@@ -8,10 +8,10 @@
 
 ## Clasificacion
 
- *Creacion, estructura y comportamiento*
- 1. Creacion: Crean los objetos, en lugar de instanciarlos. Dan flexibilidad sobre que objetos necesitamos en que comportamiento.
- 2. estructura: Ayudan a agrupar los objetos en estructuras mas grandes.
- 3. comportamiento: Ayudan a definir la comunicacion entre objetos y como se controla el flujo.
+ **Creacion, estructura y comportamiento**
+ 1. **Creacion**: Crean los objetos, en lugar de instanciarlos. Dan flexibilidad sobre que objetos necesitamos en que comportamiento.
+ 2. **estructura**: Ayudan a agrupar los objetos en estructuras mas grandes.
+ 3. **comportamiento**: Ayudan a definir la comunicacion entre objetos y como se controla el flujo.
 
 
 ## Ventajas
