@@ -24,3 +24,10 @@
 
 * Programar a una interfaz y no a una implementacion.
 * Favorecer la composicion sobre la herencia.
+
+# Patron de estrategia
+
+* Se forma con una familia de algoritmos que están encapsulado
+* El cliente selecciona que algoritmo utilizar
+* El objetivo es hacer esos algoritmos intercambiables y usar el mejor para cada caso.
+* Puede hacerse via herencia o con implementacion de interfaz.
