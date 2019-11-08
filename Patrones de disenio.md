@@ -44,5 +44,6 @@
   * **Contexto**: Una clase que contiene la información de Contexto sobre la cual trabajaran los algoritmos.
   * **IEstrategia (interfaz)**: Define una interfaz comun a todas las estrategias (algoritmos).
   * ***Estrategia n*** : implementacion de un algoritmo en particular.
+>Un ejemplo en particular es la implementacion de un Programa de operaciones aritmeticas
 
-  ![Screenshot](Estrategia.png)
+  ![Estrategia](https://github.com/santiagovasquez1/Patrones-de-disenio/blob/master/Estrategia.PNG)
