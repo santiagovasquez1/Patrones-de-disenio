@@ -45,4 +45,4 @@
   * **IEstrategia (interfaz)**: Define una interfaz comun a todas las estrategias (algoritmos).
   * ***Estrategia n*** : implementacion de un algoritmo en particular.
 
-  ![Screenshot](Estrategia.png)
+  ![Estrategia](https://github.com/santiagovasquez1/Patrones-de-disenio/blob/master/Estrategia.PNG)
