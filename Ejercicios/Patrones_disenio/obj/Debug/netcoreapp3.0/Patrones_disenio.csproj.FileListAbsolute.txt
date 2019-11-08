@@ -1,0 +1,11 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\bin\Debug\netcoreapp3.0\Patrones_disenio.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\obj\Debug\netcoreapp3.0\Patrones_disenio.csprojAssemblyReference.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\obj\Debug\netcoreapp3.0\Patrones_disenio.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\obj\Debug\netcoreapp3.0\Patrones_disenio.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\obj\Debug\netcoreapp3.0\Patrones_disenio.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patrones_disenio\obj\Debug\netcoreapp3.0\Patrones_disenio.pdb
