@@ -1,0 +1,10 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\bin\Debug\netcoreapp3.0\Decorador01.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.pdb

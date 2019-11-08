@@ -45,7 +45,7 @@
   * **IEstrategia (interfaz)**: Define una interfaz comun a todas las estrategias (algoritmos).
   * ***Estrategia n*** : implementacion de un algoritmo en particular.
 >Un ejemplo en particular es la implementacion de un Programa de operaciones aritmeticas
->>Tratar de usar en la clase seccion en el programa de columnas
+>> ***Nota***:Tratar de usar en la clase seccion en el programa de columnas
 
   ![Estrategia](https://github.com/santiagovasquez1/Patrones-de-disenio/blob/master/Estrategia.PNG)
 
@@ -87,3 +87,5 @@
   * El decorador y el objeto al que envuelve no son del mismo tipo.
   * Podemos acabar con muchos objetos en memoria
   * Si se usa indiscriminadamente, puede complicar el mantenimiento.
+
+> ***Nota***: Podria evitar el uso del deepclone en los programas
