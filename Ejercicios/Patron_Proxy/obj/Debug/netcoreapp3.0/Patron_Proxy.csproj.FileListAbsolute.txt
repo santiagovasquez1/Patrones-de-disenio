@@ -1,0 +1,11 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\obj\Debug\netcoreapp3.0\Patron_Proxy.csprojAssemblyReference.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\obj\Debug\netcoreapp3.0\Patron_Proxy.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\obj\Debug\netcoreapp3.0\Patron_Proxy.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\bin\Debug\netcoreapp3.0\Patron_Proxy.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\obj\Debug\netcoreapp3.0\Patron_Proxy.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Proxy\obj\Debug\netcoreapp3.0\Patron_Proxy.pdb

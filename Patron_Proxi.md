@@ -22,3 +22,6 @@
 * **Autentificación**: Verifica que los permisos de acceso sean los adecuados.
 * **Remoto**: Codifica las peticiones y las envia por la red.
 * **Smart**: Adiciona o modifica las peticiones antes de eniarlas.
+
+#### Clases anidadas:
+Declaracion de una clase dentro de una clase, sirve para que la clase contenedora haga uso de la contenida. El exterior no tiene acceso a esta clase.

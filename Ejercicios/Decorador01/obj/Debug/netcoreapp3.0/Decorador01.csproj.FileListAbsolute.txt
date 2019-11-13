@@ -8,3 +8,4 @@ F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\
 F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.AssemblyInfo.cs
 F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.dll
 F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Decorador01\obj\Debug\netcoreapp3.0\Decorador01.csprojAssemblyReference.cache

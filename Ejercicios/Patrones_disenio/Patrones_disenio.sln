@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patrones_disenio", "Patrone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa01_01", "..\..\..\Curso-intermedio-de-CSharp\Programa01\Programa01_01.csproj", "{5ED40386-E7BF-473B-B34A-1BEB68952A82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorador01", "..\Decorador01\Decorador01.csproj", "{7C9D4576-7569-4ECF-A8D8-59707F6E0C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorador01", "..\Decorador01\Decorador01.csproj", "{7C9D4576-7569-4ECF-A8D8-59707F6E0C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron_Proxy", "..\Patron_Proxy\Patron_Proxy.csproj", "{4E0E294A-DB3A-48E5-9902-6E0687A7D824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron_Bridge", "..\Patron_Bridge\Patron_Bridge.csproj", "{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{7C9D4576-7569-4ECF-A8D8-59707F6E0C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C9D4576-7569-4ECF-A8D8-59707F6E0C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C9D4576-7569-4ECF-A8D8-59707F6E0C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0E294A-DB3A-48E5-9902-6E0687A7D824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0E294A-DB3A-48E5-9902-6E0687A7D824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0E294A-DB3A-48E5-9902-6E0687A7D824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0E294A-DB3A-48E5-9902-6E0687A7D824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

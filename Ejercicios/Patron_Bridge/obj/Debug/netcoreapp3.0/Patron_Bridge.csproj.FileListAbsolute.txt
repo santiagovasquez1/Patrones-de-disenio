@@ -1,0 +1,11 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\bin\Debug\netcoreapp3.0\Patron_Bridge.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\obj\Debug\netcoreapp3.0\Patron_Bridge.csprojAssemblyReference.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\obj\Debug\netcoreapp3.0\Patron_Bridge.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\obj\Debug\netcoreapp3.0\Patron_Bridge.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\obj\Debug\netcoreapp3.0\Patron_Bridge.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Bridge\obj\Debug\netcoreapp3.0\Patron_Bridge.pdb
