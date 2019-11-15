@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorador01", "..\Decorador
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron_Proxy", "..\Patron_Proxy\Patron_Proxy.csproj", "{4E0E294A-DB3A-48E5-9902-6E0687A7D824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron_Bridge", "..\Patron_Bridge\Patron_Bridge.csproj", "{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron_Bridge", "..\Patron_Bridge\Patron_Bridge.csproj", "{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron_Composite", "..\Patron_Composite\Patron_Composite.csproj", "{7C840C03-2D22-41E5-A55C-1830E74FE6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "..\Compiler02\Composite.csproj", "{1C3E25C4-4842-485B-B1B6-F18099A0D063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFACAEF2-D5ED-4A7B-B9D4-753377CCA82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C840C03-2D22-41E5-A55C-1830E74FE6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C840C03-2D22-41E5-A55C-1830E74FE6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C840C03-2D22-41E5-A55C-1830E74FE6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C840C03-2D22-41E5-A55C-1830E74FE6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3E25C4-4842-485B-B1B6-F18099A0D063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3E25C4-4842-485B-B1B6-F18099A0D063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3E25C4-4842-485B-B1B6-F18099A0D063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3E25C4-4842-485B-B1B6-F18099A0D063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

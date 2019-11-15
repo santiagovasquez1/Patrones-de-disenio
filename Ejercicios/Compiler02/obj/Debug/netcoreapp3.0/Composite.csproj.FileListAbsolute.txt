@@ -1,0 +1,10 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\bin\Debug\netcoreapp3.0\Composite.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\obj\Debug\netcoreapp3.0\Composite.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\obj\Debug\netcoreapp3.0\Composite.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\obj\Debug\netcoreapp3.0\Composite.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Compiler02\obj\Debug\netcoreapp3.0\Composite.pdb

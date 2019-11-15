@@ -1,0 +1,8 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\bin\Debug\netstandard2.0\Patron_Composite.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\bin\Debug\netstandard2.0\Patron_Composite.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\bin\Debug\netstandard2.0\Patron_Composite.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\obj\Debug\netstandard2.0\Patron_Composite.csprojAssemblyReference.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\obj\Debug\netstandard2.0\Patron_Composite.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\obj\Debug\netstandard2.0\Patron_Composite.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\obj\Debug\netstandard2.0\Patron_Composite.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Composite\obj\Debug\netstandard2.0\Patron_Composite.pdb
