@@ -29,4 +29,4 @@
 * **Componente**: Representa un objeto sencillo que no se puede descomponer más e implementa las operaciones según su caso.
 * **Compuesto**: Implementa las operaciones trabajando con una coleccion de componentes.
 
-![Composite](https://github.com/santiagovasquez1/Patrones-de-disenio/blob/master/Composite.PNG)
+![Composite](https://github.com/santiagovasquez1/Patrones-de-disenio/blob/master/Composite.png)
