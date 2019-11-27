@@ -1,0 +1,11 @@
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.exe
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.deps.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.runtimeconfig.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.runtimeconfig.dev.json
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\bin\Debug\netcoreapp3.0\Patron_Flyweight.pdb
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\obj\Debug\netcoreapp3.0\Patron_Flyweight.csprojAssemblyReference.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\obj\Debug\netcoreapp3.0\Patron_Flyweight.AssemblyInfoInputs.cache
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\obj\Debug\netcoreapp3.0\Patron_Flyweight.AssemblyInfo.cs
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\obj\Debug\netcoreapp3.0\Patron_Flyweight.dll
+F:\Proyectos Visual Studio\Patrones de disenio\Ejercicios\Patron_Flyweight\obj\Debug\netcoreapp3.0\Patron_Flyweight.pdb
